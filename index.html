@@ -1,62 +1,391 @@
 ---
-layout: page
-title: My website
-subtitle: This is where I will tell my friends way too much about me
+layout: zero
 ---
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Site made with Mobirise Website Builder v3.6.1, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v3.6.1, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="assets/images/android-chrome-512x512-128x128-47.png" type="image/x-icon">
+  <meta name="description" content="">
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;subset=latin">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900">
+  <link rel="stylesheet" href="assets/et-line-font-plugin/style.css">
+  <link rel="stylesheet" href="assets/bootstrap-material-design-font/css/material.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/socicon/css/socicon.min.css">
+  <link rel="stylesheet" href="assets/animate.css/animate.min.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+  
+</head>
+<body>
 
-<div class="posts-list">
-  {% for post in paginator.posts %}
-  <article class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}
-    </a>
+  ga('create', 'UA-77711671-2', 'auto');
+  ga('send', 'pageview');
 
-    <p class="post-meta">
-      Posted on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
+</script>
+<!-- /Google Analytics -->
 
-    <div class="post-entry">
-      {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
-      {% assign excerpt_word_count = post.excerpt | number_of_words %}
-      {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
-      {% endif %}
+
+<section id="menu-0">
+
+    <nav class="navbar navbar-dropdown bg-color transparent navbar-fixed-top">
+        <div class="container">
+
+            <div class="mbr-table">
+                <div class="mbr-table-cell">
+
+                    <div class="navbar-brand">
+                        <a href="http://www.baldoequeiroz.com.br" class="navbar-logo"><img src="assets/images/somente-logo-baldoequeiroz.svg" alt="Baldo e Queiroz Advogados" title="Baldo e Queiroz Advogados"></a>
+                        <a class="navbar-caption" href="http://www.baldoequeiroz.com.br">Baldo e Queiroz Advogados</a>
+                    </div>
+
+                </div>
+                <div class="mbr-table-cell">
+
+                    <button class="navbar-toggler pull-xs-right hidden-md-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
+                        <div class="hamburger-icon"></div>
+                    </button>
+
+                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar">
+					<li class="nav-item">
+						<a class="nav-link link" href="index.html#header5-0">
+							<span class="etl-icon icon-profile-male mbr-iconfont mbr-iconfont-btn">
+							</span>Quem somos</a>
+					</li>
+					<li class="nav-item">
+					<a class="nav-link link" href="index.html#header3-2"><span class="etl-icon icon-documents mbr-iconfont mbr-iconfont-btn"></span>Serviços</a>
+					</li>
+					<li class="nav-item"><a class="nav-link link" href="/blog"><span class="etl-icon icon-newspaper mbr-iconfont mbr-iconfont-btn"></span>Blog</a></li>
+					<li class="nav-item"><a class="nav-link link" href="index.html#form1-0">
+					<span class="etl-icon icon-chat mbr-iconfont mbr-iconfont-btn"></span>Consulte-nos</a></li>
+					<li class="nav-item"><a class="nav-link link" href="tel:+5569984154343"><span class="socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn"></span>☎ (69) 98415-4343</a></li>
+					</ul>
+                    <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
+                        <div class="close-icon"></div>
+                    </button>
+
+                </div>
+            </div>
+
+        </div>
+    </nav>
+
+</section>
+
+<section class="engine"><a rel="external" href="http://www.baldoequeiroz.com.br">free bootstrap website builder</a></section><section class="mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-section-with-arrow" id="header1-1" style="background-image: url(assets/images/caixas5-2000x857-87.jpg);">
+
+    <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(0, 0, 0);"></div>
+
+    <div class="mbr-table-cell">
+
+        <div class="container">
+            <div class="row">
+                <div class="mbr-section col-md-10 col-md-offset-1 text-xs-center">
+
+                    <h1 class="mbr-section-title display-1">" A injustiça que se faz a um é uma ameça que se faz a todos"</h1>
+                    <p class="mbr-section-lead lead">Montesquieu</p>
+                    <div class="mbr-section-btn"><a class="btn btn-lg btn-success" href="index.html#header5-0">Conheça a firma</a>   </div>
+                </div>
+            </div>
+        </div>
     </div>
 
-    {% if post.tags.size > 0 %}
-    <div class="blog-tags">
-      Tags:
-      {% if site.link-tags %}
-      {% for tag in post.tags %}
-      <a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>
-      {% endfor %}
-      {% else %}
-        {{ post.tags | join: ", " }}
-      {% endif %}
+    <div class="mbr-arrow mbr-arrow-floating" aria-hidden="true"><a href="#header5-0"><i class="mbr-arrow-icon"></i></a></div>
+
+</section>
+
+<section class="mbr-section mbr-section-hero mbr-section-full" id="header5-0" style="background-color: rgb(239, 239, 239);">
+
+    
+
+    <div class="mbr-table-cell">
+
+        <div class="container">
+            <div class="row">
+                <div class="mbr-section col-md-10">
+
+                    <h1 class="mbr-section-title display-1">A FIRMA</h1>
+                    <p class="mbr-section-lead lead">A Baldo e Queiroz Advogados atua nas áreas de direito civil, trabalhista, imobiliário, previdenciário e administrativo. Em cada uma dessas áreas estamos preparados para lidar com o seu caso da melhor maneira possível.<br><br>Por isso, se você tem algum problema envolvendo danos morais, quebras de contratos, divórcio, separação, pensão alimentícia, inventário, venda e compra ou aluguel de imóveis, verbas trabalhistas, aposentadoria e benefícios, estamos prontos para lhe oferecer toda a ajuda jurídica de que você necessita..<br><br>Usamos as mais modernas tecnologias aliadas aos nossos conhecimentos jurídicos para prestar serviços advocatícios de modo ágil e eficiente. <br><br>Estamos preparados para te auxiliar a resolver seus conflitos tanto pela mediação quanto pelo litígio judicial, por isso, aguardamos a sua visita..<br></p>
+                    <div class="mbr-section-btn"><a class="btn btn-lg btn-primary" href="index.html#header3-1">Conheça os sócios</a> <a class="btn btn-lg btn-primary" href="index.html#header3-2">Nossos serviços</a></div>
+                </div>
+            </div>
+        </div>
     </div>
-    {% endif %}
 
-   </article>
-  {% endfor %}
-</div>
+    
 
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
+</section>
+
+<section class="mbr-section mbr-section__container" id="header3-1" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <h3 class="mbr-section-title display-2">Os sócios</h3>
+                <small class="mbr-section-subtitle"></small>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-cards mbr-section mbr-section-nopadding" id="features1-0" style="background-color: rgb(255, 255, 255);">
+
+        
+
+    <div class="mbr-cards-row row striped">
+
+        <div class="mbr-cards-col col-xs-12 col-lg-6" style="padding-top: 80px; padding-bottom: 80px;">
+            <div class="container">
+                <div class="card cart-block">
+                    <div class="card-img"><img src="assets/images/dsc-0403-600x750-65.jpg" class="card-img-top"></div>
+                    <div class="card-block">
+                        <h4 class="card-title">Franklin Silveira Baldo</h4>
+                        <h5 class="card-subtitle">OAB/RO nº 5733</h5>
+                        <p class="card-text">Advogado, Procurador do Estado de Rondônia, formado em Direito pela Universidade Federal de Rondônia, especialista em Direito Civil e Processo Civil, cursando mestrado em Administração pela Universidade Federal de Rondônia&nbsp;<br></p>
+                        <div class="card-btn"><a href="/franklin" class="btn btn-primary">Currículo Completo</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="mbr-cards-col col-xs-12 col-lg-6" style="padding-top: 80px; padding-bottom: 80px;">
+            <div class="container">
+                <div class="card cart-block">
+                    <div class="card-img"><img src="assets/images/linkedin-600x600-90.jpg" class="card-img-top"></div>
+                    <div class="card-block">
+                        <h4 class="card-title">Arthur Antunes Gomes Queiroz</h4>
+                        <h5 class="card-subtitle">OAB/RO nº 7869</h5>
+                        <p class="card-text">Advogado, formado em Direito pela Universidade Federal de Rondônia (2006 – 2010), especialista em Direito do Trabalho, Processo do Trabalho e Direito Previdenciário.</p>
+                        <div class="card-btn"><a href="/arthur" class="btn btn-primary">Currículo Completo</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        
+        
+        
+    </div>
+</section>
+
+<section class="mbr-section mbr-section__container" id="header3-2" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 0px;">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <h3 class="mbr-section-title display-2">Nossos Serviços</h3>
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-cards mbr-section mbr-section-nopadding" id="features3-0" style="background-color: rgb(255, 255, 255);">
+
+    
+
+    <div class="mbr-cards-row row">
+        <div class="mbr-cards-col col-xs-12 col-lg-2" style="padding-top: 0px; padding-bottom: 80px;">
+            <div class="container">
+              <div class="card cart-block">
+                  <div class="card-img"><img src="assets/images/command.svg" class="card-img-top"></div>
+                  <div class="card-block">
+                    <h4 class="card-title">Recebi uma intimação para comparecer em uma audiência.</h4>
+                    <h5 class="card-subtitle"></h5>
+                    <p class="card-text">Nós vamos te acompanhar na audiência e te orientar para a melhor saída jurídica.</p>
+                    
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="mbr-cards-col col-xs-12 col-lg-2" style="padding-top: 0px; padding-bottom: 80px;">
+            <div class="container">
+                <div class="card cart-block">
+                    <div class="card-img"><img src="assets/images/fired.svg" class="card-img-top"></div>
+                    <div class="card-block">
+                        <h4 class="card-title">Fui demitido e não recebi todos os meu direitos.</h4>
+                        <h5 class="card-subtitle"></h5>
+                        <p class="card-text">Nós vamos calcular todos os valores que você tem a receber e, se preciso, ingressar na justiça para garantir o que lhe é devido.</p>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="mbr-cards-col col-xs-12 col-lg-2" style="padding-top: 0px; padding-bottom: 80px;">
+            <div class="container">
+                <div class="card cart-block">
+                    <div class="card-img"><img src="assets/images/noun-25673-cc-1.svg" class="card-img-top" alt="Divorce by Luis Prado from the Noun Project"></div>
+                    <div class="card-block">
+                        <h4 class="card-title">Meu casamento acabou e quero me divorciar.</h4>
+                        <h5 class="card-subtitle"></h5>
+                        <p class="card-text">Vamos te ajudar a passar por esse momento difícil na vida evitando perdas patrimoniais.</p>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="mbr-cards-col col-xs-12 col-lg-2" style="padding-top: 0px; padding-bottom: 80px;">
+            <div class="container">
+                <div class="card cart-block">
+                    <div class="card-img"><img src="assets/images/noun-387341-cc.svg" class="card-img-top" alt="investment by Alfredo Hernandez from the Noun Project"></div>
+                    <div class="card-block">
+                        <h4 class="card-title">Tenho uma herança para receber, mas não sei como proceder.</h4>
+                        <h5 class="card-subtitle"></h5>
+                        <p class="card-text">Nós vamos fazer a partilha entre os herdeiros buscando minimizar os conflitos.</p>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="mbr-cards-col col-xs-12 col-lg-2" style="padding-top: 0px; padding-bottom: 80px;">
+            <div class="container">
+                <div class="card cart-block">
+                    <div class="card-img"><img src="assets/images/noun-187623-cca.svg" class="card-img-top"></div>
+                    <div class="card-block">
+                        <h4 class="card-title">Sofri um calote.</h4>
+                        <h5 class="card-subtitle"></h5>
+                        <p class="card-text">Vamos cobrar a dívida diretamente ou em juízo.</p>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</section>
+
+<section class="mbr-section" id="form1-0" style="background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 120px;">
+    
+    <div class="mbr-section mbr-section__container mbr-section__container--middle">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 text-xs-center">
+                    <h3 class="mbr-section-title display-2">Faça uma consulta</h3>
+                    <small class="mbr-section-subtitle">A mensagem será enviada diretamente para um de nossos advogados.</small>
+                </div>
+            </div>
+        </div>
+    </div>
+  <div class="contact">
+    <div class="row">
+      <div class="col-lg-6">
+        <form role="form" method="POST" action="http://formspree.io/advocacia@baldoequeiroz.com.br">
+          <input type="hidden" name="_next" value="http://www.baldoequeiroz.com.br/obrigado" />
+          <input type="hidden" name="_subject" value="Novo caso" />
+          <input type="text" name="_gotcha" style="display:none" />
+
+          <div class="form-group">
+            <label for="InputName">Nome</label>
+            <input type="text" class="form-control" name="name" id="InputName" placeholder="Seu Nome" required>
+          </div>
+          <div class="form-group">
+            <label for="InputEmail">Email</label>
+
+            <input type="email" class="form-control" id="InputEmail" name="_replyto" placeholder="seu@email.com" >
+          </div>
+          <div class="form-group">
+            <label for="InputTel">Telefone</label>
+            <input type="tel" class="form-control" id="InputTel" name="telefone" placeholder="(69) 2141-4037">
+          </div>
+          <div class="form-group">
+            <label for="InputMessage">Mensagem</label>
+            <textarea name="InputMessage" id="InputMessage" class="form-control" rows="5"  placeholder="Eu fui demitido e preciso de ajuda..."  ></textarea>
+          </div>
+          <input type="submit" name="submit" id="submit" value="Enviar" class="btn btn-info pull-right"> 
+		 </form>
+		</div>
+	</div>
+	</div>  
+</section>
+
+<section class="mbr-section mbr-section-md-padding" id="social-buttons2-0" style="background-color: rgb(204, 204, 204); padding-top: 90px; padding-bottom: 90px;">
+    
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2 text-xs-center">
+                <h3 class="mbr-section-title display-2">Redes Sociais</h3>
+                <div><a class="btn btn-social" title="Twitter" target="_blank" href="https://twitter.com/baldoequeiroz"><i class="socicon socicon-twitter"></i></a> <a class="btn btn-social" title="Facebook" target="_blank" href="https://www.facebook.com/baldoequeiroz"><i class="socicon socicon-facebook"></i></a> <a class="btn btn-social" title="Google+" target="_blank" href="https://plus.google.com/+baldoequeirozbrasil"><i class="socicon socicon-google"></i></a>  <a class="btn btn-social" title="Instagram" target="_blank" href="https://instagram.com/mobirise/"><i class="socicon socicon-instagram"></i></a>      </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section mbr-section-md-padding mbr-footer footer1" id="contacts1-0" style="background-color: rgb(46, 46, 46); padding-top: 90px; padding-bottom: 90px;">
+    
+    <div class="container">
+        <div class="row">
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                <div><img src="assets/images/somente-logo-baldoequeiroz.svg"></div>
+            </div>
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                <p><strong>Endereço</strong><br>
+Rua Brasília, 2630<br>
+Porto Velho, Rondônia<br>76804-088</p>
+            </div>
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                <p><strong>Contatos</strong><br>
+Email: <a href="mailto:advocacia@baldoequeiroz.com.br">advocacia@baldoequeiroz.com.br</a><br>
+<a href="tel:+556920414037">Telefone:: +55 (69) 2141-4037</a><br></p>
+            </div>
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                <p><strong>Links</strong><br>
+<a class="text-primary" href="/privacidade.html">Política de privacidade</a><br></p>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section mbr-section-nopadding" id="map1-0">
+    <div class="mbr-map"><iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyA0Dx_boXQiwvdz8sJHoYeZNVTdoWONYkU&amp;q=place_id:ChIJbVZzfMVcMpIR7ZlL6EUgcFU" allowfullscreen=""></iframe></div>
+</section>
+
+<footer class="mbr-small-footer mbr-section mbr-section-nopadding" id="footer1-2" style="background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;">
+    
+    <div class="container">
+        <p class="text-xs-center">Copyright (c) 2016 Mobirise.</p>
+    </div>
+</footer>
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/smooth-scroll/SmoothScroll.js"></script>
+  <script src="assets/viewportChecker/jquery.viewportchecker.js"></script>
+  <script src="assets/dropdown/js/script.min.js"></script>
+  <script src="assets/touchSwipe/jquery.touchSwipe.min.js"></script>
+  <script src="assets/jarallax/jarallax.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  <script src="assets/formoid/formoid.min.js"></script>
+  <input name="animation" type="hidden">
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5819ff66e808d60cd077351f/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+  
+  
+  </body>
+</html>
