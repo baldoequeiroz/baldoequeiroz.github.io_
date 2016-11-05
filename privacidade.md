@@ -1,7 +1,7 @@
 ---
-title: "Politica de privacidade"
-layout: page
+title: Politica de privacidade
 permalink: privacidade.html
+layout: page
 ---
 
 A privacidade dos nossos visitantes é muito importante. 

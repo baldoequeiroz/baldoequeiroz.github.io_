@@ -3,6 +3,7 @@ title: Franklin Silveira Baldo
 layout: page
 consulta: true
 ---
+
 ## Franklin Silveira Baldo
 
 ### Formação acadêmica

@@ -1,14 +1,19 @@
 ---
 title: Bancos não podem cobrar por pacotes de serviços não contratados
-date: '2016-08-22 00:00:00'
-permalink: /bancos-nao-podem-cobrar-por-pacotes-de-servicos-nao-contratados/
-subtitle:
-tags: [Direito do consumidor, bancos, dano moral, Cesta Fácil Econômica]
-bigimg:
-description:
+date: 2016-08-22 00:00:00 -04:00
+permalink: "/bancos-nao-podem-cobrar-por-pacotes-de-servicos-nao-contratados/"
+tags:
+- Direito do consumidor
+- bancos
+- dano moral
+- Cesta Fácil Econômica
+subtitle: 
+bigimg: 
+description: 
 image: img\bancos.jpg
 author: Arthur Antunes Gomes Queiroz
 ---
+
 Durante conversa com uma de nossas clientes, ela nos contou que ao ler melhor seu extrato bancário, notou a cobrança de uma tarifa chamada “cesta fácil econômica”. Curiosa por saber desde quando vinha sofrendo esse desconto em conta, verificou os extratos dos meses anteriores e lá estava, mês a mês, a cobrança da tal tarifa.
 
 Sem saber exatamente como agir, dirigiu-se até sua agência e questionou funcionários sobre a natureza e origem da taxa, recebendo apenas respostas imprecisas e insuficientes acerca do assunto. Foi aí que ela resolveu nos procurar para relatar sua situação e tentar entender exatamente o que estava acontecendo.
