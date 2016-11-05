@@ -10,6 +10,11 @@
 # If you are building a GitHub project page then use these settings:
 url: "http://www.baldoequeiroz.com.br"
 baseurl: ""
+twitter: baldoequeiroz
+facebook:
+  app_id: 1608428049463372
+  publisher: 1234
+  admins: 1234
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -24,12 +29,10 @@ description: Advocacia civil, trabalhista, administrativa e tributária. ⚖
 # List of links in the navigation bar
 navbar-links:
   Quem somos: "about"
-  Serviços: "nossos-servicos"
+  Serviços: "servicos"
   Faça uma consulta: "consulta"
   Endereço: "localizacao"
   ☎  (69)  98415-4343: "contatos"
-
-
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 avatar: 
@@ -91,7 +94,7 @@ disqus: "baldoequeiroz"
 google_analytics: "UA-77711671-2"
 
 # Facebook App ID
-# fb_app_id: ""
+fb_app_id: "1608428049463372"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
@@ -184,6 +187,7 @@ prose:
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
 
+
 gems:
   - jekyll-paginate
   - jekyll-seo-tag
@@ -193,5 +197,10 @@ gems:
   - jekyll-redirect-from
   - jekyll-feed
 
+
+  
+collections:
+    socios:
+        output: true 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
