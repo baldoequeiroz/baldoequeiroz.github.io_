@@ -8,9 +8,9 @@ tags:
 redirect_from:
 - "/igreja-pokestop/"
 author: Franklin Silveira Baldo
-subtitle:
+subtitle: 
 bigimg: pokemon-1543353_1920-e1470430641816.jpg
-description:
+description: 
 image: pokemon-1543353_1920-e1470430641816-300x272.jpg
 ---
 
