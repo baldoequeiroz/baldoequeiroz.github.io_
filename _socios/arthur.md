@@ -3,7 +3,7 @@ title: Arthur Antunes Gomes Queiroz
 post_date: '2016-05-12T01:32:24.000+00:00'
 layout: page
 redirect_from:
-  - /arthur
+- "/arthur"
 ---
 
 ### Formação acadêmica

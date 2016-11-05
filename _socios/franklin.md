@@ -3,7 +3,7 @@ title: Franklin Silveira Baldo
 layout: page
 consulta: true
 redirect_from:
-  - /franklin
+- "/franklin"
 ---
 
 ## Franklin Silveira Baldo

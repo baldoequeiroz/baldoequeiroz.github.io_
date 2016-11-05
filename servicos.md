@@ -4,7 +4,7 @@ author: Franklin Baldo
 post_date: '2016-05-12T02:01:47.000+00:00'
 layout: page
 redirect_from:
-  - /nossos-servicos
+- "/nossos-servicos"
 ---
 
 # Serviços que oferecemos a você

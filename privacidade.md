@@ -3,9 +3,9 @@ title: Politica de privacidade
 permalink: privacidade.html
 layout: page
 redirect_from:
-  - /privacidade.html
-  - /terms.html
-  - /termos.html
+- "/privacidade.html"
+- "/terms.html"
+- "/termos.html"
 ---
 
 A privacidade dos nossos visitantes é muito importante.
