@@ -7,6 +7,7 @@ tags:
 - Direito sucessório
 redirect_from:
 - /index.php/2016/06/06/como-fazer-um-inventario-extrajudicial-direto-no-cartorio/
+- /como-fazer-um-inventario-extrajudicial-direto-no-cartorio/shutterstock_157893125-2/
 subtitle:
 bigimg:
 description:

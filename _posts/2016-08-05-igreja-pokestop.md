@@ -7,6 +7,8 @@ tags:
 - direito comercial
 redirect_from:
 - /igreja-pokestop/
+- /igreja-pokestop/pokemon-1543353_1920/
+- /blog/2016-08-05-igreja-pokestop/
 author: Franklin Silveira Baldo
 subtitle:
 bigimg: pokemon-1543353_1920-e1470430641816.jpg

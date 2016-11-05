@@ -5,6 +5,7 @@ layout: page
 redirect_from:
 - "/terms.html"
 - "/termos.html"
+- /index.php/index-phppolitica-de-privacidade/
 ---
 
 A privacidade dos nossos visitantes é muito importante.

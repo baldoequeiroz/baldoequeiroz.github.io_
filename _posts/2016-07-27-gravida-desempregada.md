@@ -10,6 +10,7 @@ tags:
 - previdência social
 redirect_from:
 - /estou-desempregada-e-fiquei-gravida/
+- /blog/2016-07-27-estou-desempregada-e-fiquei-gravida/
 subtitle:
 bigimg:
 description:

@@ -7,7 +7,8 @@ tags:
 - dano moral
 - cesta fácil econômica
 redirect_from:
-- "/bancos-nao-podem-cobrar-por-pacotes-de-servicos-nao-contratados/"
+- /bancos-nao-podem-cobrar-por-pacotes-de-servicos-nao-contratados/
+- /blog/2016-08-22-bancos-nao-podem-cobrar-por-pacotes-de-servicos-nao-contratados/
 subtitle:
 bigimg:
 description:

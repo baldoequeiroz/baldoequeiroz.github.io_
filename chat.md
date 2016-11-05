@@ -2,6 +2,15 @@
 title: Contato
 permalink: "/chat"
 layout: page
+redirect_from:
+  - /contato
+  - /contatos
+  - /faca-uma-consulta
+  - /index.php/cadastro-de-clientes/
+  - /consulta
+  - /faca-uma-consulta/mensagem-enviada-com-sucesso/mail-1454731_640/
+  - /formulario-de-contato/mensagem-enviada-com-sucesso/
+  - /blog/faca-uma-consulta
 ---
 
 # Atendimento de segunda a sexta entre às 9 e 18 horas.

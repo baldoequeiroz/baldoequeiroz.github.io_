@@ -1,6 +1,10 @@
 ---
 title: Tags
-permalink: "/tags.html"
+redirect_from:
+ - /index.php/category/direito-de-familia/
+ - /category/direito-do-trabalho/
+ - /category/direito-de-marca/
+ - /index.php/category/uncategorized/
 layout: page
 description: Nossos posts organizados por tag.
 ---
