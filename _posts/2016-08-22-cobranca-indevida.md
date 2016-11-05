@@ -8,16 +8,16 @@ tags:
 - cesta fácil econômica
 redirect_from:
 - "/bancos-nao-podem-cobrar-por-pacotes-de-servicos-nao-contratados/"
-subtitle: 
-bigimg: 
-description: 
+subtitle:
+bigimg:
+description:
 image: bancos.jpg
 author: Arthur Antunes Gomes Queiroz
 ---
 
 Durante conversa com uma de nossas clientes, ela nos contou que ao ler melhor seu extrato bancário, notou a cobrança de uma tarifa chamada “cesta fácil econômica”. Curiosa por saber desde quando vinha sofrendo esse desconto em conta, verificou os extratos dos meses anteriores e lá estava, mês a mês, a cobrança da tal tarifa.
 
-Sem saber exatamente como agir, dirigiu-se até sua agência e questionou funcionários sobre a natureza e origem da taxa, recebendo apenas respostas imprecisas e insuficientes acerca do assunto. Foi aí que ela resolveu nos procurar para relatar sua situação e tentar entender exatamente o que estava acontecendo.
+Ela foi até o banco e questionou os funcionários sobre a natureza e origem da taxa, mas as respostas imprecisas e insuficientes. Foi aí que ela resolveu nos procurar para relatar sua situação e tentar entender exatamente o que estava acontecendo.
 
 Primeiramente, o Código de Consumidor, no art. 39, III, veda a prática de envio ou entrega ao consumidor de qualquer produto ou fornecimento de qualquer serviço, sem solicitação prévia. Isso quer dizer que se o banco te prestou algum serviço sem a sua solicitação esse serviço deve ser considerado brinde ou amostra grátis.
 
