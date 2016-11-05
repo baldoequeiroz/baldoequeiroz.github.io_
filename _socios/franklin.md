@@ -2,6 +2,8 @@
 title: Franklin Silveira Baldo
 layout: page
 consulta: true
+redirect_from:
+  - /franklin
 ---
 
 ## Franklin Silveira Baldo

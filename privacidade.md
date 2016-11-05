@@ -2,9 +2,13 @@
 title: Politica de privacidade
 permalink: privacidade.html
 layout: page
+redirect_from:
+  - /privacidade.html
+  - /terms.html
+  - /termos.html
 ---
 
-A privacidade dos nossos visitantes é muito importante. 
+A privacidade dos nossos visitantes é muito importante.
 Aqui definimos os tipos de infomações pessoais que recebemos e coletamos
 e como elas são usadas
 
@@ -13,7 +17,7 @@ informação pessoal com terceiros sem o seu direto consentimento.
 
 ### Arquivos de registros
 
-Como vários outros sites, nós usamos arquivos para aprender sobre quem, de onde e 
+Como vários outros sites, nós usamos arquivos para aprender sobre quem, de onde e
 com que frequência visita este site. Essas informações incluem:
 
 * Internet Protocol addresses (IP)
@@ -23,7 +27,7 @@ com que frequência visita este site. Essas informações incluem:
 * Páginas que direcionou ao nosso site e links acessados
 * Nùmeros de cliques
 
-Nenhuma dessa informações são ligadas a algo que possa identificar você pessoalmente. 
+Nenhuma dessa informações são ligadas a algo que possa identificar você pessoalmente.
 
 ### Cookies e Web Beacons
 

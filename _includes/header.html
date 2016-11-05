@@ -36,7 +36,7 @@
 		  {% endif %}
 
 		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+		  <span class="post-meta">Posted on {{ page.date | date: "%-d/%-m/%y" }}</span>
 		  {% endif %}
         </div>
       </div>
@@ -61,14 +61,13 @@
 		  {% endif %}
 
 		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+		  <span class="post-meta">Posted on {{ page.date | date: "%-d/%-m/%y" }}</span>
 		  {% endif %}
         </div>
       </div>
     </div>
   </div>
 </div>
-{% seo %}
 </header>
 
 
