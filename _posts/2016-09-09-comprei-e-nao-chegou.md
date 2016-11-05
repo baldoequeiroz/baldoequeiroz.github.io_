@@ -1,9 +1,4 @@
 ---
-title: Comprei E Nao Chegou
-date: 2016-09-09 00:00:00 -04:00
----
-
----
 title: Comprei na Internet e o produto não chegou
 date: 2016-09-09 00:00:00 -04:00
 redirect_from:
