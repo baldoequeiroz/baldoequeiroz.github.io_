@@ -18,5 +18,5 @@ Estamos prontos para lhe oferecer o melhor atendimento nas mais diversas situaç
 Estamos preparados para te auxiliar a resolver seus conflitos tanto pela mediação quanto pelo litígio judicial, por isso,  aguardamos a sua visita.
 
 {% for socio in site.socios %}
-{{ socio.url }}
+{{ socio }}
 {% endfor %}
