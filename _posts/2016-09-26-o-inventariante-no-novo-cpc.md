@@ -1,13 +1,18 @@
 ---
 title: O inventariante no novo CPC
-date: '2016-09-26 00:00:00'
+date: 2016-09-26 00:00:00 -04:00
+tags:
+- Novo CPC
+- herança
+- Direito civil
+- inventariante
 subtitle: 
-tags: [Novo CPC, herança, Direito civil, inventariante]
-bigimg:
+bigimg: 
 description: 
 image: 
 author: Arthur Antunes Gomes Queiroz
 ---
+
 Quando uma pessoa morre e deixa bens, alguém precisa cuidar desses bens até a passagem definitiva para os herdeiros. O inventariante é essa pessoa. Ele administra a herança, representa o espólio (conjunto de bens deixados pelo falecido) em ações judiciais ou extrajudicialmente. A responsabilidade do inventariante pelo espólio vai desde a assinatura do compromisso até o momento de homologação da partilha. 
 
 O Novo Código de Processo Civil, no art. 617, elenca o rol de pessoas que podem ser nomeadas como inventariantes. Além disso, fixa a ordem que deve ser obedecida pelo juiz quando da nomeação. Há, entretanto, como o próprio CPC possibilita a realização de negócios processuais (art. 190 do NCPC), os sucessores têm a autonomia para estabelecer quem será o inventariante, independentemente da ordem estabelecida pelo art. 617 do CPC.
