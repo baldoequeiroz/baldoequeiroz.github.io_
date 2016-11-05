@@ -2,11 +2,11 @@
 title: Estou desempregada e fiquei grávida, posso receber salário-maternidade?
 date: '2016-07-27 00:00:00'
 permalink: /estou-desempregada-e-fiquei-gravida/
-subtitle: 
-tags: 
+subtitle:
+tags:
 bigimg:
-description: 
-image: 
+description:
+image: img\Swanger_vrou2-224x300.jpg
 author: Arthur Antunes Gomes Queiroz
 ---
 Algumas pessoas não sabem que mesmo que você só tenha descoberto a gravidez depois de ter encerrado o seu contrato de trabalho, ainda é possível que você tenha direito ao salário-maternidade.
