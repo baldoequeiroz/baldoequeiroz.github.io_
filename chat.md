@@ -1,9 +1,8 @@
 ---
 title: Contato
-permalink: "/chat"
 layout: page
+permalink: /chat
 ---
-
 # Atendimento de segunda a sexta entre às 9 e 18 horas.
 
 

@@ -2,7 +2,6 @@
 title: Quem somos
 layout: page
 ---
-
 A Baldo e Queiroz Advogados atua nas áreas de direito civil, trabalhista, imobiliário, previdenciário e administrativo. Em cada uma dessas áreas temos profissionais especializados para lidar com o seu caso.
 
 Desse modo, se a sua situação envolve danos morais, quebras de contratos, divórcio, separação, pensão alimentícia, inventário, venda e compra ou aluguel de imóveis, verbas trabalhistas, aposentadoria e benefícios, Mandado de Segurança, entre muitos outros, estamos prontos para lhe oferecer o melhor atendimento.

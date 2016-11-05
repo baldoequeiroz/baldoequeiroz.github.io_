@@ -1,14 +1,14 @@
 ---
 title: Estou desempregada e fiquei grávida, posso receber salário-maternidade?
-date: 2016-07-27 00:00:00 -04:00
-permalink: "/estou-desempregada-e-fiquei-gravida/"
-subtitle: 
-bigimg: 
-description: 
+date: '2016-07-27 00:00:00'
+permalink: /estou-desempregada-e-fiquei-gravida/
+subtitle:
+tags:
+bigimg:
+description:
 image: img\Swanger_vrou2-224x300.jpg
 author: Arthur Antunes Gomes Queiroz
 ---
-
 Algumas pessoas não sabem que mesmo que você só tenha descoberto a gravidez depois de ter encerrado o seu contrato de trabalho, ainda é possível que você tenha direito ao salário-maternidade.
 
 Isso acontece porque você só perde a qualidade de segurada do INSS após o chamado “período de graça”. Esse período é, em regra, de 12 meses depois da última contribuição. Então, se você ficou grávida até 3 meses depois de ter saído do emprego, é provável que o bebê venha a nascer nesse período de graça e você terá direito ao salário-maternidade, mesmo estando desempregada.

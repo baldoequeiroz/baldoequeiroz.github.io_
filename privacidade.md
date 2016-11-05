@@ -1,7 +1,7 @@
 ---
-title: Politica de privacidade
-permalink: privacidade.html
+title: "Politica de privacidade"
 layout: page
+permalink: privacidade.html
 ---
 
 A privacidade dos nossos visitantes é muito importante. 
