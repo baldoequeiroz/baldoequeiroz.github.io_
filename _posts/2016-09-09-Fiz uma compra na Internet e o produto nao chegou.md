@@ -1,16 +1,19 @@
 ---
-title: "Comprei na Internet e o produto não chegou. O que devo fazer?"
+title: Comprei na Internet e o produto não chegou. O que devo fazer?
 date: 2016-09-09 00:00:00 -04:00
-permalink:
+tags:
+- internet
+- compra
+- Direito do consumidor
 redirect_from:
 - "/fiz-uma-compra-pela-internet-e-o-produto-nao-chegou-o-que-devo-fazer/"
-subtitle:
-tags: [internet, compra, Direito do consumidor]
-bigimg:
-description:
+subtitle: 
+bigimg: 
+description: 
 image: img\carrinho.png
 author: Arthur Antunes Gomes Queiroz
 ---
+
 Comprar produtos pela internet já virou prática rotineira entre brasileiros, seja pela praticidade de fazer a escolha sem sair de casa ou pela oferta de preços e descontos mais atrativos.
 
 O que acontece em muitos casos, entretanto, é que a compra que traria benefícios, acaba se tornando uma dor de cabeça: o produto não chega no prazo, quando chega, apresenta algum defeito e, em alguns casos, nunca chega, porque a loja online simplesmente sumiu.
