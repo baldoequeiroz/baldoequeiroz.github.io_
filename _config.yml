@@ -39,7 +39,7 @@ navbar-links:
   Faça uma consulta: consulta
   Endereço: localizacao
   "☎  (69)  98415-4343": contatos
-avatar: 
+avatar:
 logo: "/img/Logo_lateral_Baldoequeiroz.svg"
 author:
   name: Baldo e Queiroz Advogados
@@ -82,7 +82,7 @@ fb_app_id: '1608428049463372'
 excerpt_length: 50
 markdown: kramdown
 highlighter: rouge
-permalink: "/:year-:month-:day-:title/"
+permalink: pretty
 paginate: 5
 paginate_path: "/blog/page:num"
 kramdown:

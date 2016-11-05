@@ -3,7 +3,6 @@ title: Politica de privacidade
 permalink: privacidade.html
 layout: page
 redirect_from:
-- "/privacidade.html"
 - "/terms.html"
 - "/termos.html"
 ---
