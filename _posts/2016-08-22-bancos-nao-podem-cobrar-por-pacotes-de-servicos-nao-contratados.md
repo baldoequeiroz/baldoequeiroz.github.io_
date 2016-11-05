@@ -1,15 +1,17 @@
 ---
 title: Bancos não podem cobrar por pacotes de serviços não contratados
 date: 2016-08-22 00:00:00 -04:00
-permalink: "/bancos-nao-podem-cobrar-por-pacotes-de-servicos-nao-contratados/"
+permalink:
+redirect_from: 
+- "/bancos-nao-podem-cobrar-por-pacotes-de-servicos-nao-contratados/"
 tags:
 - Direito do consumidor
 - bancos
 - dano moral
 - Cesta Fácil Econômica
-subtitle: 
-bigimg: 
-description: 
+subtitle:
+bigimg:
+description:
 image: img\bancos.jpg
 author: Arthur Antunes Gomes Queiroz
 ---

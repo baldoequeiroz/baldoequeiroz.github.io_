@@ -1,15 +1,17 @@
 ---
 title: Como fazer um inventário extrajudicial (direto no cartório)?
 date: 2016-06-06 00:00:00 -04:00
-permalink: "/index.php/2016/06/06/como-fazer-um-inventario-extrajudicial-direto-no-cartorio/"
+permalink:
+redirect_from:
+- "/index.php/2016/06/06/como-fazer-um-inventario-extrajudicial-direto-no-cartorio/"
 tags:
 - herança
 - Direito civil
 - Direito sucessório
-subtitle: 
-bigimg: 
-description: 
-image: 
+subtitle:
+bigimg:
+description:
+image:
 author: Arthur Antunes Gomes Queiroz
 ---
 
