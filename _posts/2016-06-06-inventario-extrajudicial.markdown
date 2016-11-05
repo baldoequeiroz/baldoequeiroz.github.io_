@@ -6,11 +6,11 @@ tags:
 - Direito civil
 - Direito sucessório
 redirect_from:
-- /index.php/2016/06/06/como-fazer-um-inventario-extrajudicial-direto-no-cartorio/
-subtitle:
-bigimg:
-description:
-image:
+- "/index.php/2016/06/06/como-fazer-um-inventario-extrajudicial-direto-no-cartorio/"
+subtitle: 
+bigimg: 
+description: 
+image: 
 author: Arthur Antunes Gomes Queiroz
 ---
 

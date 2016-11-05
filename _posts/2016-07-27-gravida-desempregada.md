@@ -9,10 +9,10 @@ tags:
 - INSS
 - previdência social
 redirect_from:
-- /estou-desempregada-e-fiquei-gravida/
-subtitle:
-bigimg:
-description:
+- "/estou-desempregada-e-fiquei-gravida/"
+subtitle: 
+bigimg: 
+description: 
 image: Swanger_vrou2-224x300.jpg
 author: Arthur Antunes Gomes Queiroz
 ---

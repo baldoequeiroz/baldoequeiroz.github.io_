@@ -2,10 +2,10 @@
 title: Acabou o contrato de trabalho, quais são os meus direitos?
 date: 2016-07-26 00:00:00 -04:00
 redirect_from:
-- /acabou-o-contrato-de-trabalho-que-direitos-eu-tenho/
-subtitle:
-bigimg:
-description:
+- "/acabou-o-contrato-de-trabalho-que-direitos-eu-tenho/"
+subtitle: 
+bigimg: 
+description: 
 image: img\Handshake.jpg
 author: Arthur Antunes Gomes Queiroz
 ---

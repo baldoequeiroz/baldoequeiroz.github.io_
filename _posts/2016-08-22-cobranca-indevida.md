@@ -8,9 +8,9 @@ tags:
 - cesta fácil econômica
 redirect_from:
 - "/bancos-nao-podem-cobrar-por-pacotes-de-servicos-nao-contratados/"
-subtitle:
-bigimg:
-description:
+subtitle: 
+bigimg: 
+description: 
 image: bancos.jpg
 author: Arthur Antunes Gomes Queiroz
 ---
