@@ -1,15 +1,15 @@
 ---
-title: "O inventariante no novo CPC"
+title: O inventariante no novo CPC
 date: 2016-09-26 00:00:00 -04:00
 tags:
 - Novo CPC
 - herança
 - Direito civil
 - inventariante
-subtitle:
-bigimg:
-description:
-image:
+subtitle: 
+bigimg: 
+description: 
+image: 
 author: Arthur Antunes Gomes Queiroz
 ---
 
