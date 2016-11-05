@@ -1,12 +1,11 @@
 ---
 title: Estou desempregada e fiquei grávida, posso receber salário-maternidade?
 date: 2016-07-27 00:00:00 -04:00
-permalink:
 redirect_from:
-  - "/estou-desempregada-e-fiquei-gravida/"
-subtitle:
-bigimg:
-description:
+- "/estou-desempregada-e-fiquei-gravida/"
+subtitle: 
+bigimg: 
+description: 
 image: img\Swanger_vrou2-224x300.jpg
 author: Arthur Antunes Gomes Queiroz
 ---

@@ -1,17 +1,16 @@
 ---
 title: Minha igreja virou uma Pokéstop e agora?
 date: 2016-08-05 00:00:00 -04:00
-permalink:
-redirect_from:
-  - "/igreja-pokestop/"
 tags:
 - Pokémon GO
 - igreja
 - Direito comercial
+redirect_from:
+- "/igreja-pokestop/"
 author: Franklin Silveira Baldo
-subtitle:
+subtitle: 
 bigimg: img\pokemon-1543353_1920-e1470430641816.jpg
-description:
+description: 
 image: img\pokemon-1543353_1920-e1470430641816-300x272.jpg
 ---
 
