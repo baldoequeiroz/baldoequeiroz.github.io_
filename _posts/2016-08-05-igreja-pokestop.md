@@ -1,5 +1,6 @@
 ---
 title: Minha igreja virou uma Pokéstop e agora?
+id: 4
 date: 2016-08-05 00:00:00 -04:00
 tags:
 - Pokémon GO

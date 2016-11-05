@@ -1,6 +1,7 @@
 ---
 title: Comprei na Internet e o produto não chegou
 date: 2016-09-09 00:00:00 -04:00
+id: 6
 redirect_from:
 - /fiz-uma-compra-pela-internet-e-o-produto-nao-chegou-o-que-devo-fazer/
 subtitle:

@@ -1,6 +1,7 @@
 ---
 title: O inventariante no novo CPC
 date: 2016-09-26 00:00:00 -04:00
+id: 7
 tags:
   - Novo CPC
   - herança
@@ -9,7 +10,7 @@ tags:
 subtitle:
 redirect_from:
   - /blog/2016-09-26-o-inventariante-no-novo-cpc/
-bigimg: 
+bigimg:
 description:
 image:
 author: Arthur Antunes Gomes Queiroz
