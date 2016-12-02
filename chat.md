@@ -1,4 +1,4 @@
-﻿---
+---
 title: Contato
 permalink: "/chat"
 layout: page
