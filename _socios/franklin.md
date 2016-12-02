@@ -1,6 +1,6 @@
----
+﻿---
 title: Franklin Silveira Baldo
-layout: page
+layout: base
 consulta: true
 redirect_from:
 - "/franklin"
