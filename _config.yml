@@ -34,10 +34,10 @@ facebook:
   admins: 1234
 description: Advocacia civil, trabalhista, administrativa e tributária. ⚖
 navbar-links:
-  Quem somos: http://www.baldoequeiroz.com.br
-  Serviços: http://www.baldoequeiroz.com.br
-  Faça uma consulta: chat
-  Endereço: localizacao
+  Quem somos: index.html#top
+  Serviços: index.html#header3-k
+  Blog: blog
+  Fale conosco: chat
   "☎  (69)  98415-4343": chat
 avatar: 
 logo: "/img/Logo_lateral_Baldoequeiroz.svg"
