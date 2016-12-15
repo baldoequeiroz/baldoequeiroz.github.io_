@@ -39,7 +39,7 @@ navbar-links:
   Blog: blog
   Fale conosco: chat
   "☎  (69)  98415-4343": chat
-avatar: 
+avatar:
 logo: "/img/Logo_lateral_Baldoequeiroz.svg"
 author:
   name: Baldo e Queiroz Advogados
@@ -77,7 +77,7 @@ share-links-active:
   linkedin: true
 url-pretty: www.baldoequeiroz.com.br
 disqus: baldoequeiroz
-google_analytics: UA-77711671-2
+google_analytics: UA-77711671-1
 fb_app_id: '1608428049463372'
 excerpt_length: 50
 markdown: kramdown
